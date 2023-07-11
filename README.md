@@ -3,7 +3,7 @@
 ## Project setup
 Ensure that Node js and MongoDB installed in your system.
 You can also install MongoDB compass and setup it.
-- Clone the repo to your local directory.
+- Clone the dev branch of this repo to your local directory.
 - Open terminal to server/src directory.
 - Install all the required dependencies using command:
 
